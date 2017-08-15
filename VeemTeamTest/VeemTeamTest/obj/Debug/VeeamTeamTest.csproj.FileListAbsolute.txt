@@ -1,0 +1,4 @@
+c:\users\ravshan\documents\visual studio 2012\Projects\VeemTeamTest\VeemTeamTest\bin\Debug\VeemTeamTest.exe
+c:\users\ravshan\documents\visual studio 2012\Projects\VeemTeamTest\VeemTeamTest\bin\Debug\VeemTeamTest.pdb
+c:\users\ravshan\documents\visual studio 2012\Projects\VeemTeamTest\VeemTeamTest\obj\Debug\VeemTeamTest.exe
+c:\users\ravshan\documents\visual studio 2012\Projects\VeemTeamTest\VeemTeamTest\obj\Debug\VeemTeamTest.pdb
